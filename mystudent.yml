@@ -1,0 +1,26 @@
+---
+mystudent:
+ - name: siri
+   phno: 8976543210
+   email: siri123@gmail.com
+   address: 
+    street: 1
+    doorno: 111
+    pin: 522431
+
+    
+ - name: srikanya
+   phno: 875643219
+   email: srikanya@gmail.com
+   address: 
+    street: 2
+    doorno: 222
+    pin: 522432
+
+ - name: triveni
+   phno: 9213456780
+   email: trivenig@gmail.com
+   address: 
+      street: 3
+      doorno: 333
+      pin: 522433
