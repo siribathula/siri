@@ -13,5 +13,9 @@
   - name: i want to install webserver
     apt:
       name: tree
-      state: present 
+      state: present
+  - name: i want to install webserver
+    service:
+       name: apache2
+       state: present     
 
